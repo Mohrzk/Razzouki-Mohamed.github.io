@@ -42,9 +42,16 @@ export const SKILLS = [
 export const WORK_EXPERINCE = [
   {
     title: "Formation Développeur Web et Web mobile",
-    date: "Septembre 2023 - Mai 2024",
+    date: "Septembre 2023 - Avril 2024",
     responsabilites: [
       "J'ai récemment terminé une formation en développement web et web mobile chez M2I, ça été une expérience très enrichissante. J'y ai appris à créer des sites et des applications web modernes et interactifs en utilisant des technologies comme HTML, CSS, JavaScript, PHP ainsi que des frameworks tels que React et Laravel. J'ai aussi découvert l'importance du design responsive et de l'optimisation des performances pour offrir une expérience utilisateur fluide sur tous les types d'appareils. Grâce à cette formation, j'ai acquis non seulement des compétences techniques solides, mais aussi une approche créative et organisée pour aborder les exigences du développement web.",
+    ],
+  },
+  {
+    title: "Stage chez ADEO",
+    date: "Avril 2024 - Mai 2024",
+    responsabilites: [
+      "Grâce à mon stage chez ADEO, j'ai eu l'opportunité de découvrir le monde de l'entreprise et de comprendre le véritable métier de développeur web. En participant activement à divers projets, j'ai pu développer des compétences essentielles telles que la programmation, la gestion de bases de données et le travail en équipe. Les tâches qui m'ont été confiées m'ont permis d'acquérir une expérience pratique précieuse et de mieux appréhender les défis et les exigences du secteur du développement web.",
     ],
   },
   {
