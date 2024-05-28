@@ -10,11 +10,11 @@ const ContacteMoi = () => {
       <div className="contact-content">
         <div style={{ flex: 1 }}>
           <ContacteMoiCard
-            iconUrl="./assets/images/email.png"
+            iconUrl="./assets/images/emaiil.png"
             text="Razzouki.mohamed12@gmail.com"
           />
           <ContacteMoiCard
-            iconUrl="./assets/images/github.png"
+            iconUrl="./assets/images/githubb.png"
             text="https://github.com/Mohrzk"
           />
         </div>
